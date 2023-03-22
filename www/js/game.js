@@ -58,7 +58,7 @@ pipe[0] = {
 //Позиция птички
 let xPos = 10;
 let yPos = 150;
-let grav  = 1.5;
+let grav  = 1.6;
 
 let shotX = 10;
 let shotY = 150;
